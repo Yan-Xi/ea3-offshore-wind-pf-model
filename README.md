@@ -1,4 +1,4 @@
-East Anglia THREE — Project Finance Model
+East Anglia THREE - PF model
 
 This personal project was born out of interest of project finance and a desire to explore the mechanics of infrastructure investing. East Anglia Three is an offshore wind farm within the East Anglia Array zone with East Anglia ONE and TWO, off the east coast of the United Kingdom. It is currently in its construction stage, supported by equity co-investors Iberdrola and Masdar.
 
